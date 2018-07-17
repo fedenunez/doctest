@@ -1,3 +1,3 @@
 Hola aldo.
 
-Desde [aca](aldo.md) podes aprender más de vos.
+Desde [aca](aldo) podes aprender más de vos.
